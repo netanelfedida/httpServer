@@ -1,0 +1,23 @@
+[
+ {
+    "id":1,
+    "name":"Yossef Hefets",
+    "age":38,
+    "adress":"Ramat-Beit-Shemesh 'ג",
+    "phone":"054-00000000"
+ }  ,
+ {
+    "id":2,
+    "name":"Daniel Wasthamer",
+   " age":31,
+    "adress":"Ramat-Beit-Shemesh 'ג",
+    "phone":"054-00000000"
+ } ,
+ {
+    "id":3,
+    "name":"Josh Friedman",
+    "age":32,
+    "adress":"Ramat-Beit-Shemesh 'ד",
+    "phone":"054-00000000"
+ }  
+]
